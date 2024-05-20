@@ -1,1 +1,1 @@
-# image-slider-code-for-desktop
+# IMAGE SLIDER CODE FOR DESKTOP
